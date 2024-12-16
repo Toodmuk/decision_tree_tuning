@@ -25,6 +25,8 @@ The dataset used for this project is:
    ```bash
    pip install pandas scikit-learn matplotlib seaborn
 2.** Add Dataset**: Place the .xlsx file in the same directory as the Python script.
+
 3. **Run the Script**. Execute the rocket.py scrit.
+
 4. **Outputs**: Initial and tuned model accuracy / Decision tree visualization / Feature importance plot / Confusion matrix visualization
 / Decision tree rules saved in decision_tree_rules.txt
